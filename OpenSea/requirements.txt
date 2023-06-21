@@ -1,0 +1,7 @@
+git+https://github.com/Rapptz/discord.py
+requests
+discord-ext-bot
+pytz
+datetime
+simplejson
+python-dotenv
